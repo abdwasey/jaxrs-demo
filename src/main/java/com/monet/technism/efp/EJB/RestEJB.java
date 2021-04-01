@@ -7,7 +7,7 @@ import javax.persistence.PersistenceContext;
 @Stateless
 public class RestEJB {
 
-    @PersistenceContext
-    private EntityManager em;
+//    @PersistenceContext
+//    private EntityManager em;
 
 }

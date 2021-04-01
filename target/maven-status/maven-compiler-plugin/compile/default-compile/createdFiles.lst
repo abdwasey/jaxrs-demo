@@ -1,0 +1,4 @@
+com\monet\technism\efp\RestController\RestEndTest.class
+com\monet\technism\efp\EJB\RestEJB.class
+com\monet\technism\efp\Entity\RoleEntity.class
+com\monet\technism\efp\RestActivator\RestActivator.class
